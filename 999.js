@@ -1,4 +1,4 @@
-//越來越難了聽不懂。這集他終於教了怎麼做出波羅莫那張"One dose not simply walk into Mordor"的圖，超酷的
+//越來越難了聽不懂。這集他終於教了怎麼做出波羅莫那張"One dose not simply walk into Mordor"的圖，原來meme generator就是梗圖產生器”迷因“，我終於跟上時代了，超酷的
 
 import React, {Component} from "react"
 
